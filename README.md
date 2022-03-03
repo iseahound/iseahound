@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iseahound" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iseahound&show_icons=true&theme=tokyonight" />
 
 <!--
 **iseahound/iseahound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
