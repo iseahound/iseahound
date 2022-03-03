@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=iseahound&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iseahound" />
 ![iseahound's GitHub stats](https://github-readme-stats.vercel.app/api?username=iseahound)](https://github.com/iseahound/github-readme-stats)
 
 <!--
